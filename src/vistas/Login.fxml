@@ -18,7 +18,7 @@
    <children>
       <BorderPane prefHeight="500.0" prefWidth="300.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <top>
-            <ImageView fitHeight="90.0" fitWidth="176.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+            <ImageView fitHeight="150.0" fitWidth="376.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                <image>
                   <Image url="@assets/logonotonlyfood.png" />
                </image>
@@ -32,7 +32,7 @@
                <children>
                   <VBox prefHeight="76.0" prefWidth="240.0">
                      <children>
-                        <Label text="Usuario" textFill="#00593b">
+                        <Label text="Usuario" textFill="black">
                            <font>
                               <Font name="Avenir Book" size="16.0" />
                            </font>
@@ -42,7 +42,7 @@
                   </VBox>
                   <VBox prefHeight="94.0" prefWidth="240.0">
                      <children>
-                        <Label text="Password" textFill="#00593b">
+                        <Label text="Password" textFill="black">
                            <font>
                               <Font name="Avenir Book" size="16.0" />
                            </font>
